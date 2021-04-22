@@ -9,13 +9,12 @@
 
 
 <!-- a link between markdown pages. Link from README.md to the second markdown file and from the second markdown file back to the README.md -->
-
+![picture](./th.jpg)
 
 <!-- an image that is a file in the directory -->
-[Link](https://github.com/captainCY666/test/edit/master/temp.md)
-[link](../temp.md)
+
 [link1](./temp.md)
-[link2](temp.md)
+
 
 <!-- an image that is located on the web (not a file inthedirectory). If you right-click on an image in a web browser there is an option in the pop up to get the address/URL to the image -->
 ![图片](https://tse4-mm.cn.bing.net/th/id/OIP.8aJacj0rTuJZebQRgl5zWgHaGE?w=220&h=180&c=7&o=5&dpr=1.5&pid=1.7)
