@@ -25,6 +25,8 @@ ___
 <!-- links -->
 [wiki](https://zh.wikihow.com/)
 
+[link](./readme.md)
+
 <!--UL -->
 * Item1
 * Item2
